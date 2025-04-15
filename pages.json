@@ -1,0 +1,22 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "豆包壁纸查看器",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#4a6baf",
+			"app-plus": {
+				"titleNView": false
+			}
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "豆包壁纸查看器",
+		"navigationBarBackgroundColor": "#4a6baf",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
